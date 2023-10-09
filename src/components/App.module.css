@@ -1,0 +1,16 @@
+.container {
+  width: 500px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  font-size: 29px;
+}
+
+body {
+  font-style: italic;
+}
